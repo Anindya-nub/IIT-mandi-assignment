@@ -1,6 +1,5 @@
 # IIT-mandi assignnent
 
-## University Student Records Database Assignment
 
 This repository contains a normalized relational database design for the original flat table:
 
